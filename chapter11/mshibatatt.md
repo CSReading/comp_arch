@@ -1,7 +1,7 @@
 ## 11.1
 > スマートフォンやその他の携帯機器には、SRAMではなくてDRAMが使われるのが典型的です。なぜでしょうか？
 
-SRAMに対して大容量を安価に提供できるから
+SRAMに対して大容量を安価に提供できるから。また、DRAMの方が熱が少ない。
 参考: [Wikipedia](https://ja.wikipedia.org/wiki/Dynamic_Random_Access_Memory)
 
 ## 11.6
